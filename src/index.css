@@ -4,7 +4,7 @@
   line-height: 1.6;
   font-weight: 400;
   color: #0f172a;
-  background-color: #f1f5f9;
+  background-color: #a78b9b;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -18,7 +18,7 @@
 body {
   margin: 0;
   min-height: 100vh;
-  background: radial-gradient(circle at top, #f8fafc, #e2e8f0 60%, #cbd5f5);
+  background: radial-gradient(circle at top, #aac6ab, #e2e8f0 60%, #cbd5f5);
   display: flex;
   justify-content: center;
   padding: 2rem 1rem 3rem;

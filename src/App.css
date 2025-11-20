@@ -7,8 +7,9 @@
   gap: 1.5rem;
 }
 
+
 .hero {
-  background: linear-gradient(145deg, rgba(255, 255, 255, 0.9), rgba(247, 248, 250, 0.9));
+  background: linear-gradient(145deg, rgba(171, 198, 195, 0.9), rgba(247, 248, 250, 0.9));
   border-radius: 1.5rem;
   padding: 2rem;
   display: flex;
@@ -22,19 +23,19 @@
   font-size: 0.85rem;
   letter-spacing: 0.2em;
   text-transform: uppercase;
-  color: #607d8b;
+  color: #045b87;
   margin: 0 0 0.5rem;
 }
 
 .hero h1 {
   margin: 0;
   font-size: clamp(1.8rem, 5vw, 2.6rem);
-  color: #1d2b36;
+  color: #111c80;
 }
 
 .subtitle {
   margin: 0.5rem 0 0;
-  color: #436170;
+  color: #106996;
   max-width: 520px;
 }
 
@@ -68,7 +69,7 @@
 }
 
 .panel {
-  background: rgb(175, 158, 158);
+  background: rgb(232, 204, 204);
   border-radius: 1.25rem;
   padding: clamp(1.25rem, 4vw, 2rem);
   box-shadow: 0 15px 40px rgba(15, 23, 42, 0.08);
